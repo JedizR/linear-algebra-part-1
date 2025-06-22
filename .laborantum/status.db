@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 35.524752475247524
+                "correct": 40.524752475247524
             }
         },
         {
@@ -18,7 +18,7 @@
             "path": "/texts/course/2. Vector Spaces/config.yml",
             "status": {
                 "total": 39,
-                "correct": 4
+                "correct": 9
             }
         },
         {
@@ -2421,8 +2421,17 @@
             "path": "/texts/course/2. Vector Spaces/Linear Dependensy and Orthonormalization/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
             }
         },
         {
@@ -2437,24 +2446,41 @@
             "path": "/texts/course/2. Vector Spaces/Basis/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    2,
+                    4,
+                    6
+                ]
             }
         },
         {
             "path": "/texts/course/2. Vector Spaces/Coordinates/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    3,
+                    7,
+                    4,
+                    8,
+                    5,
+                    2
+                ]
             }
         },
         {
             "path": "/texts/course/2. Vector Spaces/Orthonormal Coordinates/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    2,
+                    0,
+                    1,
+                    4
+                ]
             }
         },
         {
@@ -2469,8 +2495,16 @@
             "path": "/texts/course/2. Vector Spaces/Hyperplanes/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    1,
+                    0,
+                    8,
+                    4,
+                    2,
+                    7
+                ]
             }
         },
         {
