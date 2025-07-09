@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 229,
-                "correct": 217.1244252873563
+                "correct": 222.7994252873563
             }
         },
         {
@@ -53,7 +53,7 @@
             "path": "/texts/course/6. Determinants/config.yml",
             "status": {
                 "total": 68,
-                "correct": 59.975
+                "correct": 65.65
             }
         },
         {
@@ -5619,7 +5619,7 @@
                     {
                         "name": "root -> task3 -> 0",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 9.191186780111051,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 9.19118678011112,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 1",
@@ -5629,17 +5629,17 @@
                     {
                         "name": "root -> task3 -> 2",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 21.642186838336215,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 21.642186838336237,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 3",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.587524356250775,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.58752435625076,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 4",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.834278842142446,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.8342788421424423,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 5",
@@ -5649,32 +5649,32 @@
                     {
                         "name": "root -> task3 -> 6",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 16.810440021635277,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 16.810440021638374,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 7",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.705712626238366,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.70571262623837,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 8",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 6.496009700586708,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 6.496009700586707,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 9",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.156331937147031,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.15633193714703,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 10",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 16.895794196936404,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 16.8957941969364,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 11",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 26.896311519981207,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 26.896311519981236,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 12",
@@ -5684,27 +5684,27 @@
                     {
                         "name": "root -> task3 -> 13",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.2843851625042024,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.284385162504204,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 14",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 12.516738835345166,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 12.516738835345144,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 15",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 29.973533439666934,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 29.97353343966689,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 16",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 23.436740332662232,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 23.436740332662243,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 17",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.1937179214951072,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.1937179214951144,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 18",
@@ -5719,12 +5719,12 @@
                     {
                         "name": "root -> task3 -> 20",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 24.42179443360187,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 24.42179443360188,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 21",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 33.41474490126451,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 33.414744901264456,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 22",
@@ -5734,12 +5734,12 @@
                     {
                         "name": "root -> task3 -> 23",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.06194615911044821,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.061946159110433996,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 24",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6395197610198373,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6395197610198409,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 25",
@@ -5749,12 +5749,12 @@
                     {
                         "name": "root -> task3 -> 26",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 21.304583711829295,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 21.304583711829313,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 27",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 8.23127477361757,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 8.231274773617578,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 28",
@@ -5764,92 +5764,92 @@
                     {
                         "name": "root -> task3 -> 29",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.4742753050643884,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.474275305064392,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 30",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 10.966288544661406,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 10.966288544661426,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 31",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 8.962839598879281,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 8.96283959887928,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 32",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.919244839417532,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.9192448394175345,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 33",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.360933754268366,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.360933754268359,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 34",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 18.594555394096954,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 18.594555394096968,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 35",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 8.984544172248736,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 8.984544172248738,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 36",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 3.5572540339283023,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 3.557254033928306,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 37",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 3.46120900441948,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 3.4612090044194965,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 38",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 10.248977912593814,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 10.248977912593809,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 39",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.481909384889413,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.481909384889406,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 40",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 27.50685973952285,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 27.50685973952286,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 41",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 6.572521636825744,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 6.572521636825748,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 42",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 13.000780214457869,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 13.0007802144579,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 43",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 8.749036548084199,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 8.749036548084192,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 44",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 22.63906763362972,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 22.639067633629686,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 45",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 6.808042294916841,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 6.808042294916849,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 46",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.2983401114644835,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.298340111464505,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 47",
@@ -5859,92 +5859,92 @@
                     {
                         "name": "root -> task3 -> 48",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.038021852990489,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.0380218529904965,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 49",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 12.192999674366835,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 12.192999674366842,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 50",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 35.3235659835162,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 35.323565983516076,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 51",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.349808690560841,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.349808690560814,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 52",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.5729327897682275,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.572932789768284,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 53",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 18.034145088067802,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 18.03414508806781,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 54",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.7788887694366196,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 7.778888769436599,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 55",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 6.454852194477243,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 6.454852194477263,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 56",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 38.935693628737205,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 38.93569362873727,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 57",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6376206434444178,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6376206434444143,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 58",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 6.999716278108039,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 6.999716278108051,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 59",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 13.414650220397347,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 13.414650220397363,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 60",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.46322652879588944,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.4632265287958859,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 61",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.504043261500908,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.5040432615009203,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 62",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.734775818532236,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.734775818532246,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 63",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 22.012337555254096,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 22.012337555254092,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 64",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 11.456476382724475,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 11.456476382724468,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 65",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 10.494013295385404,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 10.49401329538541,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 66",
@@ -5959,12 +5959,12 @@
                     {
                         "name": "root -> task3 -> 68",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3194597396582708,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3194597396582637,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 69",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.4614587418616374,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.4614587418616445,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 70",
@@ -5974,7 +5974,7 @@
                     {
                         "name": "root -> task3 -> 71",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.4897396612358307,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.4897396612358449,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 72",
@@ -5984,7 +5984,7 @@
                     {
                         "name": "root -> task3 -> 73",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 18.53718144033906,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 18.53718144033904,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 74",
@@ -5994,12 +5994,12 @@
                     {
                         "name": "root -> task3 -> 75",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 15.761569070282867,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 15.761569070282864,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 76",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 16.37534435321275,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 16.375344353212746,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 77",
@@ -6009,7 +6009,7 @@
                     {
                         "name": "root -> task3 -> 78",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.2583126231186199,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.258312623118627,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 79",
@@ -6019,7 +6019,7 @@
                     {
                         "name": "root -> task3 -> 80",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 22.881470407231895,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 22.881470407231888,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 81",
@@ -6039,7 +6039,7 @@
                     {
                         "name": "root -> task3 -> 84",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 13.883528378258921,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 13.883528378258953,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 85",
@@ -6049,12 +6049,12 @@
                     {
                         "name": "root -> task3 -> 86",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 29.787415540588135,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 29.787415540588142,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 87",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 9.729865066413883,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 9.72986506641384,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 88",
@@ -6064,17 +6064,17 @@
                     {
                         "name": "root -> task3 -> 89",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.9336459757630564,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.9336459757630635,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 90",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.868204906922977,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.868204906922976,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 91",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.37243685420003914,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.37243685420004624,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 92",
@@ -6084,7 +6084,7 @@
                     {
                         "name": "root -> task3 -> 93",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 17.16322026247785,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 17.163220262477825,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 94",
@@ -6099,17 +6099,17 @@
                     {
                         "name": "root -> task3 -> 96",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.3162435110536208,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.3162435110536244,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 97",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 35.04940318844657,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 35.04940318844651,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 98",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 18.379677809120054,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 18.37967780912003,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task3 -> 99",
@@ -24708,7 +24708,7 @@
         {
             "path": "/texts/course/6. Determinants/Cramer's Rule/config.yml",
             "status": {
-                "correct": 8.875,
+                "correct": 10,
                 "total": 10,
                 "testStatus": [
                     {
@@ -24718,8 +24718,8 @@
                     },
                     {
                         "name": "root -> task1 -> b",
-                        "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (2, 1)\nRecieved shape: (1, 2)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> det_A_terms -> 0",
@@ -24753,8 +24753,8 @@
                     },
                     {
                         "name": "root -> task1 -> x",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 1)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> cofactors",
@@ -24768,13 +24768,13 @@
                     },
                     {
                         "name": "root -> task2 -> A",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task2 -> b",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 1)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task2 -> det_A_terms -> 0",
@@ -24808,8 +24808,8 @@
                     },
                     {
                         "name": "root -> task2 -> x",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 1)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task2 -> cofactors",
@@ -24828,8 +24828,8 @@
                     },
                     {
                         "name": "root -> task3 -> b",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 1)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task3 -> det_A_terms -> 0",
@@ -24953,8 +24953,8 @@
                     },
                     {
                         "name": "root -> task3 -> x",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 1)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task3 -> cofactors",
@@ -24973,8 +24973,8 @@
                     },
                     {
                         "name": "root -> task4 -> b",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 1)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4 -> det_A_terms -> 0",
@@ -25098,8 +25098,8 @@
                     },
                     {
                         "name": "root -> task4 -> x",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 1)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4 -> cofactors",
@@ -25146,7 +25146,7 @@
         {
             "path": "/texts/course/6. Determinants/Determinant Computation Algorithm/config.yml",
             "status": {
-                "correct": 3.1,
+                "correct": 7.65,
                 "total": 10,
                 "testStatus": [
                     {
@@ -25156,8 +25156,8 @@
                     },
                     {
                         "name": "root -> results -> 0 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 1 -> 0",
@@ -25166,8 +25166,8 @@
                     },
                     {
                         "name": "root -> results -> 1 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.3198051948051948"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 2 -> 0",
@@ -25176,8 +25176,8 @@
                     },
                     {
                         "name": "root -> results -> 2 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.670638544843185"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 3 -> 0",
@@ -25186,8 +25186,8 @@
                     },
                     {
                         "name": "root -> results -> 3 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 4 -> 0",
@@ -25196,8 +25196,8 @@
                     },
                     {
                         "name": "root -> results -> 4 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.4282587782587783"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 5 -> 0",
@@ -25206,8 +25206,8 @@
                     },
                     {
                         "name": "root -> results -> 5 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.4288353468477692"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 6 -> 0",
@@ -25216,8 +25216,8 @@
                     },
                     {
                         "name": "root -> results -> 6 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2725627358919194"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 7 -> 0",
@@ -25226,8 +25226,8 @@
                     },
                     {
                         "name": "root -> results -> 7 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.389666945222097"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 8 -> 0",
@@ -25236,8 +25236,8 @@
                     },
                     {
                         "name": "root -> results -> 8 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.1458333333333333"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 9 -> 0",
@@ -25246,8 +25246,8 @@
                     },
                     {
                         "name": "root -> results -> 9 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.8854142793481028"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 10 -> 0",
@@ -25256,8 +25256,8 @@
                     },
                     {
                         "name": "root -> results -> 10 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5853789419857227"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 11 -> 0",
@@ -25266,8 +25266,8 @@
                     },
                     {
                         "name": "root -> results -> 11 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5722222222222222"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 12 -> 0",
@@ -25276,8 +25276,8 @@
                     },
                     {
                         "name": "root -> results -> 12 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5897435897435899"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 13 -> 0",
@@ -25286,8 +25286,8 @@
                     },
                     {
                         "name": "root -> results -> 13 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.7595571095571094"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 14 -> 0",
@@ -25296,8 +25296,8 @@
                     },
                     {
                         "name": "root -> results -> 14 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.25"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 15 -> 0",
@@ -25306,8 +25306,8 @@
                     },
                     {
                         "name": "root -> results -> 15 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.9883449883449884"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 16 -> 0",
@@ -25316,8 +25316,8 @@
                     },
                     {
                         "name": "root -> results -> 16 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.1515151515151514"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 17 -> 0",
@@ -25327,7 +25327,7 @@
                     {
                         "name": "root -> results -> 17 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.4743589743589745"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.4102564102564102"
                     },
                     {
                         "name": "root -> results -> 18 -> 0",
@@ -25336,8 +25336,8 @@
                     },
                     {
                         "name": "root -> results -> 18 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.261904761904762"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 19 -> 0",
@@ -25346,8 +25346,8 @@
                     },
                     {
                         "name": "root -> results -> 19 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5528797067538482"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 20 -> 0",
@@ -25356,8 +25356,8 @@
                     },
                     {
                         "name": "root -> results -> 20 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.3333333333333333"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 21 -> 0",
@@ -25366,8 +25366,8 @@
                     },
                     {
                         "name": "root -> results -> 21 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.9619386385011384"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 22 -> 0",
@@ -25376,8 +25376,8 @@
                     },
                     {
                         "name": "root -> results -> 22 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.143939393939394"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 23 -> 0",
@@ -25386,8 +25386,8 @@
                     },
                     {
                         "name": "root -> results -> 23 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.3333333333333333"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 24 -> 0",
@@ -25396,8 +25396,8 @@
                     },
                     {
                         "name": "root -> results -> 24 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.8783333333333333"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 25 -> 0",
@@ -25416,8 +25416,8 @@
                     },
                     {
                         "name": "root -> results -> 26 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.7518227556623653"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 27 -> 0",
@@ -25426,8 +25426,8 @@
                     },
                     {
                         "name": "root -> results -> 27 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.1111111111111112"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 28 -> 0",
@@ -25436,8 +25436,8 @@
                     },
                     {
                         "name": "root -> results -> 28 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.3730769230769229"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 29 -> 0",
@@ -25446,8 +25446,8 @@
                     },
                     {
                         "name": "root -> results -> 29 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.8778797314637"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 30 -> 0",
@@ -25456,8 +25456,8 @@
                     },
                     {
                         "name": "root -> results -> 30 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.3666666666666667"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 31 -> 0",
@@ -25466,8 +25466,8 @@
                     },
                     {
                         "name": "root -> results -> 31 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2272727272727273"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 32 -> 0",
@@ -25476,8 +25476,8 @@
                     },
                     {
                         "name": "root -> results -> 32 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5507889546351084"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 33 -> 0",
@@ -25486,8 +25486,8 @@
                     },
                     {
                         "name": "root -> results -> 33 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.1875"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 34 -> 0",
@@ -25496,8 +25496,8 @@
                     },
                     {
                         "name": "root -> results -> 34 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.4732142857142854"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 35 -> 0",
@@ -25506,8 +25506,8 @@
                     },
                     {
                         "name": "root -> results -> 35 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 36 -> 0",
@@ -25516,8 +25516,8 @@
                     },
                     {
                         "name": "root -> results -> 36 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.6768009768009768"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 37 -> 0",
@@ -25526,8 +25526,8 @@
                     },
                     {
                         "name": "root -> results -> 37 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5714285714285714"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 38 -> 0",
@@ -25536,8 +25536,8 @@
                     },
                     {
                         "name": "root -> results -> 38 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.761904761904762"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 39 -> 0",
@@ -25546,8 +25546,8 @@
                     },
                     {
                         "name": "root -> results -> 39 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 40 -> 0",
@@ -25556,8 +25556,8 @@
                     },
                     {
                         "name": "root -> results -> 40 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 41 -> 0",
@@ -25566,8 +25566,8 @@
                     },
                     {
                         "name": "root -> results -> 41 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.3987790903083257"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 42 -> 0",
@@ -25577,7 +25577,7 @@
                     {
                         "name": "root -> results -> 42 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.7647149208842505"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.7018422896719968"
                     },
                     {
                         "name": "root -> results -> 43 -> 0",
@@ -25586,8 +25586,8 @@
                     },
                     {
                         "name": "root -> results -> 43 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0454545454545454"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 44 -> 0",
@@ -25606,8 +25606,8 @@
                     },
                     {
                         "name": "root -> results -> 45 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.6666666666666666"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 46 -> 0",
@@ -25616,8 +25616,8 @@
                     },
                     {
                         "name": "root -> results -> 46 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0188492063492063"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 47 -> 0",
@@ -25626,8 +25626,8 @@
                     },
                     {
                         "name": "root -> results -> 47 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.875"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 48 -> 0",
@@ -25636,8 +25636,8 @@
                     },
                     {
                         "name": "root -> results -> 48 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.25"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 49 -> 0",
@@ -25656,8 +25656,8 @@
                     },
                     {
                         "name": "root -> results -> 50 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2395686992745818"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 51 -> 0",
@@ -25666,8 +25666,8 @@
                     },
                     {
                         "name": "root -> results -> 51 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.4090909090909092"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 52 -> 0",
@@ -25676,8 +25676,8 @@
                     },
                     {
                         "name": "root -> results -> 52 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.3333333333333333"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 53 -> 0",
@@ -25696,8 +25696,8 @@
                     },
                     {
                         "name": "root -> results -> 54 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.75"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 55 -> 0",
@@ -25706,8 +25706,8 @@
                     },
                     {
                         "name": "root -> results -> 55 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0492063492063493"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 56 -> 0",
@@ -25716,8 +25716,8 @@
                     },
                     {
                         "name": "root -> results -> 56 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.15"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 57 -> 0",
@@ -25726,8 +25726,8 @@
                     },
                     {
                         "name": "root -> results -> 57 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.474686261450967"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 58 -> 0",
@@ -25736,8 +25736,8 @@
                     },
                     {
                         "name": "root -> results -> 58 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.256103175313718"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 59 -> 0",
@@ -25746,8 +25746,8 @@
                     },
                     {
                         "name": "root -> results -> 59 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 60 -> 0",
@@ -25756,8 +25756,8 @@
                     },
                     {
                         "name": "root -> results -> 60 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.0229024943310656"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 61 -> 0",
@@ -25766,8 +25766,8 @@
                     },
                     {
                         "name": "root -> results -> 61 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.4"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 62 -> 0",
@@ -25776,8 +25776,8 @@
                     },
                     {
                         "name": "root -> results -> 62 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 63 -> 0",
@@ -25786,8 +25786,8 @@
                     },
                     {
                         "name": "root -> results -> 63 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.8589904404538549"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 64 -> 0",
@@ -25797,7 +25797,7 @@
                     {
                         "name": "root -> results -> 64 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.6432646818624097"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0069296065331603"
                     },
                     {
                         "name": "root -> results -> 65 -> 0",
@@ -25806,8 +25806,8 @@
                     },
                     {
                         "name": "root -> results -> 65 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.6"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 66 -> 0",
@@ -25816,8 +25816,8 @@
                     },
                     {
                         "name": "root -> results -> 66 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 67 -> 0",
@@ -25826,8 +25826,8 @@
                     },
                     {
                         "name": "root -> results -> 67 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.6000110127307168"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 68 -> 0",
@@ -25836,8 +25836,8 @@
                     },
                     {
                         "name": "root -> results -> 68 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.725"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 69 -> 0",
@@ -25847,7 +25847,7 @@
                     {
                         "name": "root -> results -> 69 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.015623734046207"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.20272391901166797"
                     },
                     {
                         "name": "root -> results -> 70 -> 0",
@@ -25857,7 +25857,7 @@
                     {
                         "name": "root -> results -> 70 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.6172619047619046"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.12500000000000003"
                     },
                     {
                         "name": "root -> results -> 71 -> 0",
@@ -25866,8 +25866,8 @@
                     },
                     {
                         "name": "root -> results -> 71 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.7961199033544537"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 72 -> 0",
@@ -25876,8 +25876,8 @@
                     },
                     {
                         "name": "root -> results -> 72 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.75"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 73 -> 0",
@@ -25886,8 +25886,8 @@
                     },
                     {
                         "name": "root -> results -> 73 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.6530999863608216"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 74 -> 0",
@@ -25896,8 +25896,8 @@
                     },
                     {
                         "name": "root -> results -> 74 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5650589149028902"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 75 -> 0",
@@ -25906,8 +25906,8 @@
                     },
                     {
                         "name": "root -> results -> 75 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5076923076923079"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 76 -> 0",
@@ -25916,8 +25916,8 @@
                     },
                     {
                         "name": "root -> results -> 76 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2645502645502646"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 77 -> 0",
@@ -25926,8 +25926,8 @@
                     },
                     {
                         "name": "root -> results -> 77 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 78 -> 0",
@@ -25936,8 +25936,8 @@
                     },
                     {
                         "name": "root -> results -> 78 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 79 -> 0",
@@ -25946,8 +25946,8 @@
                     },
                     {
                         "name": "root -> results -> 79 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2448717948717947"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 80 -> 0",
@@ -25956,8 +25956,8 @@
                     },
                     {
                         "name": "root -> results -> 80 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 81 -> 0",
@@ -25966,8 +25966,8 @@
                     },
                     {
                         "name": "root -> results -> 81 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5683377249808967"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 82 -> 0",
@@ -25976,8 +25976,8 @@
                     },
                     {
                         "name": "root -> results -> 82 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.8717948717948718"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 83 -> 0",
@@ -25986,8 +25986,8 @@
                     },
                     {
                         "name": "root -> results -> 83 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.8939393939393938"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 84 -> 0",
@@ -25996,8 +25996,8 @@
                     },
                     {
                         "name": "root -> results -> 84 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.4"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 85 -> 0",
@@ -26006,8 +26006,8 @@
                     },
                     {
                         "name": "root -> results -> 85 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.3333333333333333"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 86 -> 0",
@@ -26016,8 +26016,8 @@
                     },
                     {
                         "name": "root -> results -> 86 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 87 -> 0",
@@ -26026,8 +26026,8 @@
                     },
                     {
                         "name": "root -> results -> 87 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.25"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 88 -> 0",
@@ -26036,8 +26036,8 @@
                     },
                     {
                         "name": "root -> results -> 88 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.8333333333333334"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 89 -> 0",
@@ -26046,8 +26046,8 @@
                     },
                     {
                         "name": "root -> results -> 89 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.4571328531412566"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 90 -> 0",
@@ -26056,8 +26056,8 @@
                     },
                     {
                         "name": "root -> results -> 90 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.895029906717294"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 91 -> 0",
@@ -26066,8 +26066,8 @@
                     },
                     {
                         "name": "root -> results -> 91 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 92 -> 0",
@@ -26076,8 +26076,8 @@
                     },
                     {
                         "name": "root -> results -> 92 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.25"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 93 -> 0",
@@ -26086,8 +26086,8 @@
                     },
                     {
                         "name": "root -> results -> 93 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.1875"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 94 -> 0",
@@ -26096,8 +26096,8 @@
                     },
                     {
                         "name": "root -> results -> 94 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5555555555555556"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 95 -> 0",
@@ -26106,8 +26106,8 @@
                     },
                     {
                         "name": "root -> results -> 95 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2222222222222223"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 96 -> 0",
@@ -26116,8 +26116,8 @@
                     },
                     {
                         "name": "root -> results -> 96 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2916666666666665"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 97 -> 0",
@@ -26126,8 +26126,8 @@
                     },
                     {
                         "name": "root -> results -> 97 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.6424242424242423"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 98 -> 0",
@@ -26136,8 +26136,8 @@
                     },
                     {
                         "name": "root -> results -> 98 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.3333333333333333"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 99 -> 0",
@@ -26146,8 +26146,8 @@
                     },
                     {
                         "name": "root -> results -> 99 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5714285714285714"
+                        "ok": true,
+                        "status": "OK"
                     }
                 ]
             }
